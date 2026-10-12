@@ -9,3 +9,6 @@
 - Accessibility: semantic headings, labels, native form controls, table headers, skip navigation, visible focus and live feedback implemented. Accessibility certification and assistive-technology user testing have not been performed.
 
 Screenshots in qa/ represent browser QA sample progress, not real learner data. Research and learning outcomes remain proposed.
+
+## Visual refresh
+New SVG helix logo, blue/coral palette and locally bundled generated images. Desktop and 390px mobile dashboard inspected; all four image references loaded and page width matched viewport. Learning content and cross calculations are unchanged.

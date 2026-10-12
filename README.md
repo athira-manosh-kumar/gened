@@ -20,3 +20,6 @@ Run `node tests/engine.test.cjs` to verify 18 crosses, known probabilities and r
 
 ## Portfolio framing
 Concept MVP, not a launched education business. Proposed design principle: connect explanation → hands-on exploration → corrective feedback. Future research: test vocabulary comprehension, simulator interpretation and independent learning with introductory biology students. These are proposed research activities, not completed research.
+
+## Visual refresh
+The updated theme uses cobalt, navy and coral. Local JPEG assets show a realistic DNA molecular illustration and photographic-style pea/lab scenes; they are AI-generated, as documented in ASSETS.md. Original vector logo is embedded as SVG.
