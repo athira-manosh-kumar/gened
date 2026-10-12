@@ -12,3 +12,15 @@ Screenshots in qa/ represent browser QA sample progress, not real learner data. 
 
 ## Visual refresh
 New SVG helix logo, blue/coral palette and locally bundled generated images. Desktop and 390px mobile dashboard inspected; all four image references loaded and page width matched viewport. Learning content and cross calculations are unchanged.
+
+## Learning-purpose expansion · 12 October 2026
+- Sequence activity: a wrong position received corrective feedback; position 5 revealed C→T; the interpretation check recorded completion.
+- Microbe explorer: switching to viruses changed structural/reproduction facts; yeast classification recorded completion.
+- Growth model: 3 unlimited generations produced 8 cells; 6 generations with the toy cap produced 16 instead of a prediction of 64. Interpretation check recorded completion.
+- Guided inheritance: incorrect PP×PP hypothesis showed why Pp×Pp permits pp; explanatory response worked.
+- Mixed practice: all 6 questions exercised, including one deliberately wrong answer; result was 5/6 with a genomics review link.
+- Glossary: genome filtering worked and an unmatched term produced the empty-state message.
+- Persistence: three completed new investigations survived reload and updated the next recommended activity.
+- Keyboard: ArrowRight switched the selected pathway tab. Deeper preference expanded topic notes.
+- Mobile: genomics page inspected at 390px; page width matched viewport. Further screenshots document the revised hub.
+- No measured learning outcomes, exam alignment, expert course coverage or physical-lab competence are claimed.
